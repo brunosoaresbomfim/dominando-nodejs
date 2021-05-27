@@ -1,0 +1,24 @@
+# PROJETO DO CURSO DOMINANDO NodeJS
+
+## Explicação sobre projeto
+
+Projeto criado em Node.js, postgres, referente ao curso de Dominando NodeJS da [DEVSAMURAI]https://www.devsamurai.com.br.
+
+## Sobre o projeto
+
+O projeto foi criado visando o gerenciamento de clientes e contatos, com todos os metodos de CRUD e autenticação e autorização.
+
+## Executar o projeto
+Instalar as dependencias
+
+Run `yarn install` ou `yarn`
+
+Executar o projeto
+
+Run `yarn dev`
+
+## BANCO DE DADOS 
+
+Estou utilizando o banco de dados Postgres. 
+
+**dominando-nodejs**
